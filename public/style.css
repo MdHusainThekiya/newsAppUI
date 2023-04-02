@@ -1,0 +1,21 @@
+.loading-content {
+    display: block;
+  position: absolute;
+  top: 30vh;
+  left: 35vw;
+  margin: 0 auto;
+  width: 300px;
+  height: 400px;
+  align-self: center;
+  text-align: center;
+  color: #888;
+}
+
+.loading-content img {
+  width: 100%;
+}
+
+.loading-content img.erxes-logo {
+  width: 90px;
+  margin-bottom: 20px;
+}
