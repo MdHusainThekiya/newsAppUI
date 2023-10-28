@@ -33,7 +33,7 @@ class HeaderNav extends Component {
                     <LinkedInIcon style={{ fontSize: 15 }} />
                   </IconButton>
                 </a>
-                  <a href="https://github.com/MdHusainThekiya/news-app"
+                  <a href="https://github.com/MdHusainThekiya/"
                   target="_blank">
                   <IconButton className="IconButton">
                     <GitHubIcon style={{ fontSize: 15 }} />
