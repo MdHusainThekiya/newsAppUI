@@ -1,10 +1,10 @@
 {
-  "ROOT_URL": "https://newsappapi.onrender.com/",
-  "NEWS_ARTICLE_URL": "https://newsappapi.onrender.com/newsarticle/",
-  "REFRESH_NEWS_ARTICLE_URL": "https://newsappapi.onrender.com/newsarticle/fromapi/",
-  "NEWS_CATEGORY_URL": "https://newsappapi.onrender.com/newscategory/",
-  "GETALL_USERS_URL": "https://newsappapi.onrender.com/signup/",
-  "NEWS_LOGIN_URL": "https://newsappapi.onrender.com/login/",
-  "NEWS_SIGNUP_URL": "https://newsappapi.onrender.com/signup/",
+  "ROOT_URL": "https://news-app-api-mdhusainthekiya.vercel.app/",
+  "NEWS_ARTICLE_URL": "https://news-app-api-mdhusainthekiya.vercel.app/newsarticle/",
+  "REFRESH_NEWS_ARTICLE_URL": "https://news-app-api-mdhusainthekiya.vercel.app/newsarticle/fromapi/",
+  "NEWS_CATEGORY_URL": "https://news-app-api-mdhusainthekiya.vercel.app/newscategory/",
+  "GETALL_USERS_URL": "https://news-app-api-mdhusainthekiya.vercel.app/signup/",
+  "NEWS_LOGIN_URL": "https://news-app-api-mdhusainthekiya.vercel.app/login/",
+  "NEWS_SIGNUP_URL": "https://news-app-api-mdhusainthekiya.vercel.app/signup/",
   "MEDIA_QUERY_WIDTH": "600px"
 }
